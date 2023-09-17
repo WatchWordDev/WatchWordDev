@@ -1,7 +1,7 @@
 ## Hi there! I'm Justin Anderson 👋
 
 [![LinkedIn](https://img.shields.io/badge/jandersondev%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jandersondev/)](https://www.linkedin.com/in/jandersondev/)
-[![GitHub](https://img.shields.io/badge/WatchWordDev%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/justin-anderson-dev)](https://github.com/justin-anderson-dev)
+[![GitHub](https://img.shields.io/badge/justin--anderson--dev%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/justin-anderson-dev)](https://github.com/justin-anderson-dev)
 [![Gmail](https://img.shields.io/badge/justin@watchworddigital.com%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:justin@watchworddigital.com)](mailto:justin@watchworddigital.com)
 [![Twitter](https://img.shields.io/badge/theManderson%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/themanderson)](https://twitter.com/themanderson/)
 
